@@ -1,5 +1,8 @@
 # Tic-Tac-Toe AI Game:
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 > A terminal-based Tic-Tac-Toe game with an unbeatable AI opponent powered by the **Minimax algorithm**. Personalize it with your name and enjoy endless rematches!
 
 ---
@@ -16,12 +19,13 @@
 
 ##  How to Play:
 
-1. Clone the Repository:
+1. Clone the repository:
 git clone https://github.com/ziziiprogramming/Tic-Tac-Toe-AI-Bot.git
 cd Tic-Tac-Toe-AI-Bot
 
-2. Run the code:
+2. Run this code:
 python tic-tac-toe.py
+
 ---
 
 ## How It Works?:
