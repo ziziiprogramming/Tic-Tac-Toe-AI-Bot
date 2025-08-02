@@ -16,12 +16,11 @@
 
 ##  How to Play:
 
+1. Clone the Repository:
 git clone https://github.com/ziziiprogramming/Tic-Tac-Toe-AI-Bot.git
-
-# Navigate to the project directory
 cd Tic-Tac-Toe-AI-Bot
 
-# Run the game (for Mac/Linux use python3 if needed)
+2. Run the code:
 python tic-tac-toe.py
 ---
 
